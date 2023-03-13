@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: -100vh;
+    background: url(https://media.tenor.com/274Jq71u-zQAAAAC/bhik-mangya-deepak-kalal.gif) no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 200px;
+}

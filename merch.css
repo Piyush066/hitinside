@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(https://external-preview.redd.it/g3Pii9CfDDE-WA1CEDyB5YonMC9XGgckgFpqtOgQ1nY.png?format=pjpg&auto=webp&s=50720ceb3e202bdf734e11946abca516eedab980) no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 200px;
+    font-size: 20px;
+    text-decoration: white;
+}
